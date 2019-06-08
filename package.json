@@ -82,7 +82,7 @@
     "rollup-plugin-size-snapshot": "^0.8.0",
     "rollup-plugin-svg": "^1.0.1",
     "ts-jest": "^23.10.5",
-    "typescript": "^3.3.3333",
+    "typescript": "^3.5.1",
     "semantic-release": "^15.13.3"
   },
   "resolutions": {
