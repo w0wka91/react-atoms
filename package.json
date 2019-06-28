@@ -73,7 +73,7 @@
     "docz": "^1.2.0",
     "docz-theme-default": "^1.2.0",
     "feather-icons": "^4.22.1",
-    "husky": "^2.4.1",
+    "husky": "^2.7.0",
     "jest-dom": "^3.5.0",
     "prettier": "1.18.2",
     "react": "^16.8.6",
