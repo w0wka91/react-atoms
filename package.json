@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.14",
-    "dayjs": "^1.8.14",
+    "dayjs": "^1.8.15",
     "emotion": "^10.0.14",
     "polished": "^3.4.1"
   },
